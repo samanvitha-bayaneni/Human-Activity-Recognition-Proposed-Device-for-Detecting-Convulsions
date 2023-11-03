@@ -1,0 +1,1 @@
+# Human-Activity-Recognition-Proposed-Device-for-Detecting-Convulsions
